@@ -74,3 +74,9 @@ Erick.8a@gmail.com
 
 ~~~
 
+## Derechos de Autor 
+El material mostrado para la elaboración del circuito digital 
+planteado es libre para su uso y modificación futura por cualquier
+colaborador
+
+
