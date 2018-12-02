@@ -1,4 +1,4 @@
-# Sistema Mimetizador Visualizador de Mensajes
+# Sistema de control para acceso de automoviles en red
 
 ***
 ## indice 
