@@ -11,6 +11,18 @@
 ***
 ## Descripcion   
 
+Debe diseñarse un sistema de control en red basado en la plataforma Arduino. El Escenario, la aplicación, el objetivo y la motivación deben ser seleccionados por los estudiantes.
+
+Cada propuesta debe cumplir los siguientes requisitos:
+
+Se debe incluir al menos tres sensores y un actuador.
+Se deben identificar puertos y protocolos de comunicación.
+El sistema de control debe estar conectado en red.
+El sistema de control debe de mostrar estadísticas de los sensores y tomar acciones en consecuencia.
+ 
+
+Se consideran componentes adicionales como aplicaciones móviles.
+
 
 ## Material utilizado:
 
