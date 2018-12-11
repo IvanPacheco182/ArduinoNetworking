@@ -41,7 +41,7 @@
 
 ***
 ## circuito 
-![circuito](/Diagrama.png)
+![circuito](/Diagrama.PNG)
 ***
 ## codigo en arduino
 ~~~
