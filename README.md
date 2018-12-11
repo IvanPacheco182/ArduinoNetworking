@@ -48,7 +48,7 @@ Se consideran componentes adicionales como aplicaciones móviles.
 ## funcionalidad
 
 
-![funcionalidad](/interfaz.JPG)
+![funcionalidad](/Funcionalidad.png)
 
 
 ***
