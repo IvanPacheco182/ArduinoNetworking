@@ -30,17 +30,13 @@ Se consideran componentes adicionales como aplicaciones móviles.
 
 •	1 módulo Ethernet shield
 
-•	
+•	1 Led
 
-•	
-
-•	
+•2 Resistencias 220k
 
 •	1 sensor de humedad y temperatura
 
 •	1 fotoresistor
-
-• 
 
 • 25 cables para puntear aprox
 
