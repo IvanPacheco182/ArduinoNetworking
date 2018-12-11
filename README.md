@@ -199,9 +199,9 @@ void loop() {
 
 ## Evidencia
 
-![evidencia](Evidencia/PlumaCerrada.jpeg)
-![evidencia](Evidencia/PlumaAbierta.jpeg)
-![evidencia](Evidencia/Evidencialed.jpeg)
+![evidencia](PlumaCerrada.jpeg)
+![evidencia](PlumaAbierta.jpeg)
+![evidencia](Evidencialed.jpeg)
 
 
 ## Contacto
