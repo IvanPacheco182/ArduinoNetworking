@@ -42,6 +42,8 @@ Se consideran componentes adicionales como aplicaciones móviles.
 
 • 1 Microservo
 
+• Material extra para simulación de ejecución (Pluma, torre de luz, automovil, etc.)
+
 
 ## funcionalidad
 
