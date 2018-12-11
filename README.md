@@ -40,6 +40,8 @@ Se consideran componentes adicionales como aplicaciones móviles.
 
 • 25 cables para puntear aprox
 
+• 1 Microservo
+
 
 ## funcionalidad
 
